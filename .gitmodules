@@ -1,13 +1,12 @@
-[submodule "week1"]
-	      path = week1
-	      url = https://github.com/Sunwoo0110/CS496-Week1Wls.git
-[submodule "week2"]
-	      path = week2
-	      url = https://github.com/Sunwoo0110/Madcamp-week2.git
-[submodule "week3"]
-	      path = week3
-	      url = https://github.com/Sunwoo0110/madcamp-pj3.git
-[submodule "week4"]
-	      path = week4
-	      url = https://github.com/Sunwoo0110/madcamp_week4.git
-      
+[submodule "CS496-Week1Wls"]
+	path = CS496-Week1Wls
+	url = https://github.com/Sunwoo0110/CS496-Week1Wls
+[submodule "Madcamp-week2"]
+	path = Madcamp-week2
+	url = https://github.com/Sunwoo0110/Madcamp-week2.git
+[submodule "madcamp-pj3"]
+	path = madcamp-pj3
+	url = https://github.com/Sunwoo0110/madcamp-pj3.git
+[submodule "madcamp_week4"]
+	path = madcamp_week4
+	url = https://github.com/Sunwoo0110/madcamp_week4.git
